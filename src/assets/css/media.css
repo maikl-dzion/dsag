@@ -1,0 +1,65 @@
+/* ############################# */
+/* ############################# */
+/* ЕСЛИ ШИРИНА (width) БОЛЬШЕ >  */
+
+/* Если WIDTH > 1350px */
+@media screen and (min-width: 1350px){
+
+    .v-dialog {
+        width: 1100px !important;
+    }
+}
+
+/* Если WIDTH > 100px */
+@media screen and (min-width: 100px){
+
+    /*.full-height {*/
+        /*width: 100%;*/
+    /*}*/
+
+}
+
+/* ############################# */
+/* ############################# */
+/* ЕСЛИ ШИРИНА (width) МЕНЬШЕ  < */
+/* Если WIDTH < 700px */
+@media screen and (max-width: 965px){
+
+    .btn-control  {
+        font-size:12px !important;
+        height: 34px;
+        margin: 0px;
+        padding:0px;
+    }
+
+    .btn-control i {
+        display: none;
+    }
+}
+
+
+/* Если WIDTH < 700px */
+@media screen and (max-width: 700px){
+
+    .tabsActionButton {
+        font-size: 9px !important;
+    }
+
+}
+
+/* Если WIDTH < 600px */
+@media screen and (max-width: 600px){
+
+    .tabsActionButton {
+        font-size: 9px !important;
+    }
+
+    .leftWindow {
+        /* width: 10% !important;
+        font-size:11px; */
+    }
+
+}
+
+
+
