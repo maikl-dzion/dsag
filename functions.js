@@ -111,8 +111,8 @@ setTimeout(() => {
   // });
 
   $(document).ready(function () {
-    //$('body').bootstrapMaterialDesign();
-    //$('[data-toggle="tooltip"]').tooltip();
+     //$('body').bootstrapMaterialDesign();
+     //$('[data-toggle="tooltip"]').tooltip();
   });
 
   // makeResizableDiv('.resizable', ' .resizer', 'top-left');
