@@ -98,8 +98,6 @@ function escapeRegExp(string) {
 
 //var resizerClass = ' .resizer';
 //var bottomRightClass  = 'bottom-right';
-
-
 // Обработка кастомного поля select
 
 setTimeout(() => {
@@ -116,7 +114,6 @@ setTimeout(() => {
   });
 
   // makeResizableDiv('.resizable', ' .resizer', 'top-left');
-
   // makeResizableDivNew('.resizable',);
 
 }, 20);
